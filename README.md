@@ -1,0 +1,2 @@
+# Kalendarz
+Aplikacja kalendarza zmianowego
